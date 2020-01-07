@@ -1,19 +1,14 @@
-[
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : -6.451645,
-               "lng" : 106.867494
-            },
-         },
-         "name" : "Masjid Darul Jannah",
-         "types" : [
-            "travel_agency",
-            "restaurant",
-            "food",
-            "point_of_interest",
-            "establishment"
-         ]
-      }      
-         "status" : "OK"
-]
+{
+	"html_attributions" : [],
+	"results" : [
+		{
+			"geometry" : {
+			"location" : {
+			"lat" : -6.451619
+			"lng" : 106.867495
+				}
+			}
+			"name" : "Masjid Darul Jannah",
+			"types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ]
+		}]
+}
