@@ -1,5 +1,5 @@
 {
-      {
+      (
          "geometry" : {
             "location" : {
                "lat" : -6.451645,
@@ -14,5 +14,5 @@
             "point_of_interest",
             "establishment"
          ]
-      }      
+      )
 }
