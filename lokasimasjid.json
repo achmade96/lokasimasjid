@@ -1,6 +1,7 @@
 {
 	"html_attributions" : [],
 	"results" : [
+
 		{
 			"geometry" : {
 				"location" : {
@@ -10,5 +11,28 @@
 			},
 			"name" : "Masjid DJ",
 			"types" : ["restaurant"]
-		}]
+		},
+
+		{
+			"geometry" : {
+				"location" : {
+					"lat" : -6.452520,
+					"lng" : 106.863239
+				}
+			},
+			"name" : "Masjid Jami Al-Asi",
+			"types" : ["restaurant"]
+		},
+
+		{
+			"geometry" : {
+				"location" : {
+					"lat" : -6.447607,
+					"lng" : 106.866756
+				}
+			},
+			"name" : "Masjid NT",
+			"types" : ["restaurant"]
+		}
+	]
 }
