@@ -1,6 +1,4 @@
-{
-   "html_attributions" : [],
-   "results" : [
+[
       {
          "geometry" : {
             "location" : {
@@ -160,7 +158,6 @@
          "user_ratings_total" : 27,
          "vicinity" : "King Street Wharf, King St, Sydney"
       },
-      
-   ],
+    
 
-}
+]
