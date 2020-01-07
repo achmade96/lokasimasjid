@@ -5,22 +5,22 @@
 		{
 			"geometry" : {
 				"location" : {
-					"lat" : -6.451619,
-					"lng" : 106.867495
-				}
-			},
-			"name" : "Masjid DJ",
-			"types" : ["restaurant"]
-		},
-
-		{
-			"geometry" : {
-				"location" : {
 					"lat" : -6.452520,
 					"lng" : 106.863239
 				}
 			},
 			"name" : "Masjid Jami Al-Asi",
+			"types" : ["restaurant"]
+		},
+		
+		{
+			"geometry" : {
+				"location" : {
+					"lat" : -6.451619,
+					"lng" : 106.867495
+				}
+			},
+			"name" : "Masjid DJ",
 			"types" : ["restaurant"]
 		},
 
