@@ -4,23 +4,23 @@
       {
          "geometry" : {
             "location" : {
-               "lat" : -33.8675921,
-               "lng" : 151.2015849
+               "lat" : -6.451645,
+               "lng" : 106.867494
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : -33.86624227010728,
-                  "lng" : 151.2029347298927
+                  "lat" : -6.451645,
+                  "lng" : 106.867494
                },
                "southwest" : {
-                  "lat" : -33.86894192989272,
-                  "lng" : 151.2002350701073
+                  "lat" : -6.451645,
+                  "lng" : 106.867494
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
          "id" : "a97f9fb468bcd26b68a23072a55af82d4b325e0d",
-         "name" : "Australian Cruise Group",
+         "name" : "Masjid Darul Jannah",
          "opening_hours" : {
             "open_now" : false
          },
@@ -52,26 +52,29 @@
          "user_ratings_total" : 212,
          "vicinity" : "32 The Promenade, King Street Wharf 5, Sydney"
       },
+      
+      
+      
       {
          "geometry" : {
             "location" : {
-               "lat" : -33.8675829,
-               "lng" : 151.2016025
+               "lat" : -6.447634,
+               "lng" : 106.866702
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : -33.86623307010728,
-                  "lng" : 151.2029523298927
+                  "lat" : -6.447634,
+                  "lng" : 106.866702
                },
                "southwest" : {
-                  "lat" : -33.86893272989272,
-                  "lng" : 151.2002526701073
+                  "lat" : -6.447634,
+                  "lng" : 106.866702
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
          "id" : "ce4ffe228ab7ad49bb050defe68b3d28cc879c4a",
-         "name" : "Sydney Showboats",
+         "name" : "Masjid Nurut Taqwa",
          "opening_hours" : {
             "open_now" : false
          },
@@ -103,26 +106,29 @@
          "user_ratings_total" : 94,
          "vicinity" : "32 The Promenade, King Street Wharf, 5, Sydney"
       },
+      
+      
+      
       {
          "geometry" : {
             "location" : {
-               "lat" : -33.8686058,
-               "lng" : 151.2018206
+               "lat" : -6.450723,
+               "lng" : 106.864554
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : -33.86724947010728,
-                  "lng" : 151.2032704798927
+                  "lat" : -6.450723,
+                  "lng" : 106.864554
                },
                "southwest" : {
-                  "lat" : -33.86994912989272,
-                  "lng" : 151.2005708201072
+                  "lat" : -6.450723,
+                  "lng" : 106.864554
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
          "id" : "21a0b251c9b8392186142c798263e289fe45b4aa",
-         "name" : "Rhythmboat Cruises",
+         "name" : "Masjid Jami Al-Asi",
          "opening_hours" : {
             "open_now" : false
          },
@@ -154,111 +160,7 @@
          "user_ratings_total" : 27,
          "vicinity" : "King Street Wharf, King St, Sydney"
       },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : -33.8675885,
-               "lng" : 151.2015896
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -33.86618797010728,
-                  "lng" : 151.2029996798927
-               },
-               "southwest" : {
-                  "lat" : -33.86888762989273,
-                  "lng" : 151.2003000201072
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-         "id" : "dec25eec746943ffbc96e3719623dbbb12d4d2a2",
-         "name" : "Magistic Cruises",
-         "opening_hours" : {
-            "open_now" : false
-         },
-         "photos" : [
-            {
-               "height" : 384,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/108269116761340400861\"\u003eMagistic Cruises\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAADpjC3rFhuw2jTUgNEaDXr3A3mM0n2_1jfNmBPubJaQbFnXvCNciotlq82SFi1YbbtY5T3L-rgNkkgZ-Si8iTCd_7rokVtuPk_qHD6Xs6WbZrex4gRyOGyE1_76jgYipiEhDZStePm2g7viVEeS7_3oo8GhRxK3JOFE2hgU0TSiWBg7NWxxEhZA",
-               "width" : 512
-            }
-         ],
-         "place_id" : "ChIJxRjqYTiuEmsRGebAA_chDLE",
-         "plus_code" : {
-            "compound_code" : "46J2+XJ Sydney, New South Wales",
-            "global_code" : "4RRH46J2+XJ"
-         },
-         "rating" : 3.9,
-         "reference" : "ChIJxRjqYTiuEmsRGebAA_chDLE",
-         "scope" : "GOOGLE",
-         "types" : [
-            "tourist_attraction",
-            "travel_agency",
-            "restaurant",
-            "food",
-            "point_of_interest",
-            "establishment"
-         ],
-         "user_ratings_total" : 76,
-         "vicinity" : "King Street Wharf, 32 The Promenade, Sydney"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : -33.8687158,
-               "lng" : 151.2018488
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -33.86743212010728,
-                  "lng" : 151.2032775798927
-               },
-               "southwest" : {
-                  "lat" : -33.87013177989273,
-                  "lng" : 151.2005779201073
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
-         "id" : "c599a18b1291baf3a5fb25990fc17fe2ee24e718",
-         "name" : "Cargo Bar",
-         "opening_hours" : {
-            "open_now" : false
-         },
-         "photos" : [
-            {
-               "height" : 800,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/104269049167619826899\"\u003eCargo Bar\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAA4NCr5J5B-5efyvRDGRS_AcQ36SQeHLeVcBiyqi4w6gr7harOdm59bPaWCoGdBRc1xlxvWUtLRvvlFGiZiYrwnx6GBQYz2YaJFQpV9RyawuiSHk-Of4sXxLX6sKx45gZ_EhB_grPifjJ45w7Y6-OR_MHAGhSUAVvVgxB6TZD5mq1N3982w12Fwg",
-               "width" : 1200
-            }
-         ],
-         "place_id" : "ChIJXxX3dkeuEmsRK39KITl0US8",
-         "plus_code" : {
-            "compound_code" : "46J2+GP Sydney, New South Wales",
-            "global_code" : "4RRH46J2+GP"
-         },
-         "price_level" : 2,
-         "rating" : 3.8,
-         "reference" : "ChIJXxX3dkeuEmsRK39KITl0US8",
-         "scope" : "GOOGLE",
-         "types" : [
-            "bar",
-            "night_club",
-            "restaurant",
-            "food",
-            "point_of_interest",
-            "establishment"
-         ],
-         "user_ratings_total" : 1641,
-         "vicinity" : "52-60 The Promenade, King Street Wharf, Darling Harbour"
-      }
+      
    ],
    "status" : "OK"
 }
