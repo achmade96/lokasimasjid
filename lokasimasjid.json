@@ -10,5 +10,16 @@
 			},
 			"name" : "Masjid Darul Jannah",
 			"types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ]
+		
+
+		
+			"geometry" : {
+			"location" : {
+			"lat" : -6.447607
+			"lng" : 106.866756
+				}
+			},
+			"name" : "Masjid Nurut Taqwa",
+			"types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ]
 		}]
 }
