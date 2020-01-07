@@ -1,10 +1,8 @@
 [
       {
-         "geometry" : {
             "location" : {
                "lat" : -6.451645,
                "lng" : 106.867494
-            },
          },
          "name" : "Masjid Darul Jannah",
          "types" : [
