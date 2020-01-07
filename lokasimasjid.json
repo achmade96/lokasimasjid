@@ -3,32 +3,12 @@
 	"results" : [
 		{
 			"geometry" : {
-				"location" : {
-					"lat" : -6.451619,
-					"lng" : 106.867495
+			"location" : {
+			"lat" : -6.451619,
+			"lng" : 106.867495
 				}
 			},
 			"name" : "Masjid Darul Jannah",
-			"types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
-
-			"geometry" : {
-				"location" : {
-					"lat" : -6.452251,
-					"lng" : 106.863857
-				}
-			},
-			"name" : "Musholla Al-Barokah",
-			"types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
-
-			"geometry" : {
-				"location" : {
-					"lat" : -6.452520,
-					"lng" : 106.863239
-				}
-			},
-			"name" : "Masjid Jami Al-Asi",
 			"types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ]
-		}
-
-	]
+		}]
 }
