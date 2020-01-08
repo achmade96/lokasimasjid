@@ -55,6 +55,28 @@
 			"name" : "Masjid DJ",
 			"types" : ["restaurant"]
 		},
+		
+		{
+			"geometry" : {
+				"location" : {
+					"lat" : -6.353893,
+					"lng" : 106.836914
+				}
+			},
+			"name" : "Masjid Nurul Falah",
+			"types" : ["restaurant"]
+		},
+		
+		{
+			"geometry" : {
+				"location" : {
+					"lat" : -6.353964,
+					"lng" : 106.833611
+				}
+			},
+			"name" : "Masjid Jami Murdhotillah",
+			"types" : ["restaurant"]
+		},
 
 		{
 			"geometry" : {
