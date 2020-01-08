@@ -15,6 +15,39 @@
 		{
 			"geometry" : {
 				"location" : {
+					"lat" : -6.450497,
+					"lng" : 106.922737
+				}
+			},
+			"name" : "Masjid Nurul Huda",
+			"types" : ["restaurant"]
+		},
+
+		{
+			"geometry" : {
+				"location" : {
+					"lat" : -6.448460,
+					"lng" : 106.904360
+				}
+			},
+			"name" : "Musholla Baiturrohman",
+			"types" : ["restaurant"]
+		},
+
+		{
+			"geometry" : {
+				"location" : {
+					"lat" : -6.451129,
+					"lng" : 106.919401
+				}
+			},
+			"name" : "Masjid Nurul Fadillah",
+			"types" : ["restaurant"]
+		},
+
+		{
+			"geometry" : {
+				"location" : {
 					"lat" : -6.451619,
 					"lng" : 106.867495
 				}
