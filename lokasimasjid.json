@@ -9,6 +9,7 @@
 				}
 			},
 			"name" : "Masjid Jami Al-Asi",
+			"address" : "RT.2/RW.7, Cimpaeun, Kec. Tapos, Kota Depok",
 			"types" : ["restaurant"]
 		},
 		
@@ -20,6 +21,7 @@
 				}
 			},
 			"name" : "Masjid Nurul Huda",
+			"address" : "Masjid nurul huda, Tlajung Udik, Kec. Gn. Putri, Bogor",
 			"types" : ["restaurant"]
 		},
 
@@ -31,6 +33,7 @@
 				}
 			},
 			"name" : "Musholla Baiturrohman",
+			"address" : "Tlajung Udik, Kec. Gn. Putri, Bogor",
 			"types" : ["restaurant"]
 		},
 
@@ -42,6 +45,7 @@
 				}
 			},
 			"name" : "Masjid Nurul Fadillah",
+			"address" : "Tlajung Udik, Kec. Gn. Putri, Bogor",
 			"types" : ["restaurant"]
 		},
 
@@ -53,6 +57,7 @@
 				}
 			},
 			"name" : "Masjid DJ",
+			"address" : "Perumahan Persada Depok,, Cimpaeun, Kec. Tapos, Kota Depok",
 			"types" : ["restaurant"]
 		},
 		
@@ -64,6 +69,7 @@
 				}
 			},
 			"name" : "Masjid Nurul Falah",
+			"address" : "Jl. H. Sara No.51, Cimpaeun, Kec. Tapos, Kota Depok",
 			"types" : ["restaurant"]
 		},
 		
@@ -86,6 +92,7 @@
 				}
 			},
 			"name" : "Masjid NT",
+			"address" : "Jl. H. Sara No.51, Cimpaeun, Kec. Tapos, Kota Depok",
 			"types" : ["restaurant"]
 		}
 	]
