@@ -1,0 +1,37 @@
+[
+        {
+            "id": "1",
+            "kabkota": "KOTA ADM. JAKARTA PUSAT",
+            "kecamatan": "Sawah Besar",
+            "nama_masjid": "Masjid Istiqlal",
+            "tipologi": "Masjid Negara",
+            "alamat": "Jl. Taman Wijaya Kusuma Rt.08/02, Kel. Pasar Baru, Kec. Sawah Besar, Jakarta Pusat",
+            "lat": "-6.1702",
+            "long": "106.8311",
+            "foto": "https://gitlab.com/suharya59/yukamal/raw/master/pembangunan/pembangunan2.jpg"
+
+        },
+
+        {
+            "id": "2",
+            "kabkota": "KAB. MAMUJU",
+            "kecamatan": "Simboro dan Kepulauan",
+            "nama_masjid": "Masjid Baitul Anwar",
+            "tipologi": "Masjid Raya",
+            "alamat": "KANTOR GUBERNUR SULAWESI BARAT=",
+            "lat": "-2.6672",
+            "long": "118.8525",
+            "foto": "https://gitlab.com/suharya59/yukamal/raw/master/pembangunan/pembangunan1.jpg"
+        },
+        {
+            "id": "3",
+            "kabkota": "KOTA ADM. JAKARTA BARAT",
+            "kecamatan": "Cengkareng",
+            "nama_masjid": "Masjid KH.Hasyim Asy\"ari",
+            "tipologi": "Masjid Raya",
+            "alamat": "Jl.Daan Mogot KM.14.5 Pesakih Rt 3/14 Duri Kosambi",
+            "lat": "-6.2115",
+            "long": "106.8452",
+            "foto": "https://gitlab.com/suharya59/yukamal/raw/master/pembangunan/pembangunan3.jpg"
+        }
+]
