@@ -8,7 +8,8 @@
             "alamat": "Jl. Taman Wijaya Kusuma Rt.08/02, Kel. Pasar Baru, Kec. Sawah Besar, Jakarta Pusat",
             "lat": "-6.1702",
             "long": "106.8311",
-            "foto": "https://gitlab.com/suharya59/yukamal/raw/master/pembangunan/pembangunan2.jpg"
+            "foto": "https://gitlab.com/suharya59/yukamal/raw/master/pembangunan/pembangunan2.jpg",
+            "fasilitas" : [ "Parkir Mobil", "Parkir Motor", "Air Conditioner"]
 
         },
 
@@ -21,7 +22,8 @@
             "alamat": "KANTOR GUBERNUR SULAWESI BARAT=",
             "lat": "-2.6672",
             "long": "118.8525",
-            "foto": "https://gitlab.com/suharya59/yukamal/raw/master/pembangunan/pembangunan1.jpg"
+            "foto": "https://gitlab.com/suharya59/yukamal/raw/master/pembangunan/pembangunan1.jpg",
+            "fasilitas" : [ "Parkir Mobil", "Kipas Angin"]
         },
         {
             "id": "3",
@@ -32,6 +34,7 @@
             "alamat": "Jl.Daan Mogot KM.14.5 Pesakih Rt 3/14 Duri Kosambi",
             "lat": "-6.2115",
             "long": "106.8452",
-            "foto": "https://gitlab.com/suharya59/yukamal/raw/master/pembangunan/pembangunan3.jpg"
+            "foto": "https://gitlab.com/suharya59/yukamal/raw/master/pembangunan/pembangunan3.jpg",
+            "fasilitas" : ["Parkir Motor", "Kipas Angin"]
         }
 ]
