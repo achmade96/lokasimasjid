@@ -4,23 +4,23 @@
       {
          "geometry" : {
             "location" : {
-               "lat" : -6.451645,
+               "lat" : -6.451590,
                "lng" : 106.867494
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : -6.451645,
+                  "lat" : -6.451590,
                   "lng" : 106.867494
                },
                "southwest" : {
-                  "lat" : -6.451645,
+                  "lat" : -6.451590,
                   "lng" : 106.867494
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
          "id" : "8e980ad0c819c33cdb1cea31e72d654ca61a7065",
-         "name" : "Cruise Bar",
+         "name" : "Masjid Darul Jannah",
          "opening_hours" : {
             "open_now" : true
          },
@@ -50,23 +50,23 @@
       {
          "geometry" : {
             "location" : {
-               "lat" : -6.451645,
-               "lng" : 106.867494
+               "lat" : 6.210423811899915,
+               "lng" : 106.85866211585778
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : -6.451645,
-                  "lng" : 106.867494
+                  "lat" : 6.210423811899915,
+                  "lng" : 106.85866211585778
                },
                "southwest" : {
-                  "lat" : -6.451645,
-                  "lng" : 106.867494
+                  "lat" : 6.210423811899915,
+                  "lng" : 106.85866211585778
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
          "id" : "f1e044040bd03ff06e19de4798b52dd926855281",
-         "name" : "Sydney Harbour Dinner Cruises",
+         "name" : "Masjid Al-Istiqamah",
          "opening_hours" : {
             "open_now" : false
          },
@@ -102,23 +102,23 @@
       {
          "geometry" : {
             "location" : {
-               "lat" : -6.451645,
-               "lng" : 106.867494
+               "lat" : -6.248051660068422,
+               "lng" : 106.85591553382653
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : -6.451645,
-                  "lng" : 106.867494
+                  "lat" : -6.248051660068422,
+                  "lng" : 106.85591553382653
                },
                "southwest" : {
-                  "lat" : -6.451645,
-                  "lng" : 106.867494
+                  "lat" : -6.248051660068422,
+                  "lng" : 106.85591553382653
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
          "id" : "9ea7c77cb181b1f33d19c9d76121fcc6d5246ad8",
-         "name" : "Australian Cruise Group",
+         "name" : "Maasjid At-Taqwa",
          "opening_hours" : {
             "open_now" : false
          },
@@ -153,23 +153,23 @@
       {
          "geometry" : {
             "location" : {
-               "lat" : -6.4147282,
-               "lng" : 106.8209629
+               "lat" : -6.213922206203229,
+               "lng" : 106.85050820045251
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : -6.4147282,
-                  "lng" : 106.82096297
+                  "lat" : -6.213922206203229,
+                  "lng" : 106.85050820045251
                },
                "southwest" : {
-                  "lat" : -6.4147282,
-                  "lng" : 106.8209629
+                  "lat" : -6.213922206203229,
+                  "lng" : 106.85050820045251
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
          "id" : "21a0b251c9b8392186142c798263e289fe45b4aa",
-         "name" : "Rhythmboat Cruises",
+         "name" : "Masjid Nurul Iman",
          "opening_hours" : {
             "open_now" : false
          },
@@ -204,23 +204,211 @@
       {
          "geometry" : {
             "location" : {
-               "lat" : -6.4147282,
-               "lng" : 106.8209629
+               "lat" : -6.212642308545594,
+               "lng" : 106.85479973487634
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : -33.85713117010727,
-                  "lng" : 151.2111837298927
+                  "lat" : -6.212642308545594,
+                  "lng" : 106.85479973487634
                },
                "southwest" : {
-                  "lat" : -33.85983082989272,
-                  "lng" : 151.2084840701073
+                  "lat" : -6.212642308545594,
+                  "lng" : 106.85479973487634
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
          "id" : "6facf611e56f3d6f232a24e60d9392759bbd43fa",
-         "name" : "Junk Lounge",
+         "name" : "Masjid Al-Ikhlas",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104473997089847488714\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbC8DoWZzr5gnqW1x4a5q97hwJNgMUiFQNgmuzR510FJ0YKG0GYvvSnMlrR8B0KVvgmwvQ9LLdzlWwC8zQQwN5jUjumigIXLVOO00mNJ5QZs7UlhkhQH0CJrDzRm6yb9XEhDeE8tpLNidlAGJDr_Dp_-DGhTRJboI23uXFfmOmDk5eag4Euogjg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJq9W3HZOvEmsRYtKNTRmq34M",
+         "plus_code" : {
+            "compound_code" : "46R5+JX The Rocks, New South Wales",
+            "global_code" : "4RRH46R5+JX"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJq9W3HZOvEmsRYtKNTRmq34M",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29,
+         "vicinity" : "Level 2, Overseas Passenger Terminal, Circular Quay W, The Rocks"
+      }
+      
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.211618388178563,
+               "lng" : 106.85231064491052
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.211618388178563,
+                  "lng" : 106.85231064491052
+               },
+               "southwest" : {
+                  "lat" : -6.211618388178563,
+                  "lng" : 106.85231064491052
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6facf611e56f3d6f232a24e60d9392759bbd43fa",
+         "name" : "Masjid Al-Amsir",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104473997089847488714\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbC8DoWZzr5gnqW1x4a5q97hwJNgMUiFQNgmuzR510FJ0YKG0GYvvSnMlrR8B0KVvgmwvQ9LLdzlWwC8zQQwN5jUjumigIXLVOO00mNJ5QZs7UlhkhQH0CJrDzRm6yb9XEhDeE8tpLNidlAGJDr_Dp_-DGhTRJboI23uXFfmOmDk5eag4Euogjg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJq9W3HZOvEmsRYtKNTRmq34M",
+         "plus_code" : {
+            "compound_code" : "46R5+JX The Rocks, New South Wales",
+            "global_code" : "4RRH46R5+JX"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJq9W3HZOvEmsRYtKNTRmq34M",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29,
+         "vicinity" : "Level 2, Overseas Passenger Terminal, Circular Quay W, The Rocks"
+      }
+
+{
+         "geometry" : {
+            "location" : {
+               "lat" : -6.20999717685783,
+               "lng" : 106.85445641212243
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.20999717685783,
+                  "lng" : 106.85445641212243
+               },
+               "southwest" : {
+                  "lat" : -6.20999717685783,
+                  "lng" : 106.85445641212243
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6facf611e56f3d6f232a24e60d9392759bbd43fa",
+         "name" : "Masjid Al-Qadar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104473997089847488714\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbC8DoWZzr5gnqW1x4a5q97hwJNgMUiFQNgmuzR510FJ0YKG0GYvvSnMlrR8B0KVvgmwvQ9LLdzlWwC8zQQwN5jUjumigIXLVOO00mNJ5QZs7UlhkhQH0CJrDzRm6yb9XEhDeE8tpLNidlAGJDr_Dp_-DGhTRJboI23uXFfmOmDk5eag4Euogjg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJq9W3HZOvEmsRYtKNTRmq34M",
+         "plus_code" : {
+            "compound_code" : "46R5+JX The Rocks, New South Wales",
+            "global_code" : "4RRH46R5+JX"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJq9W3HZOvEmsRYtKNTRmq34M",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29,
+         "vicinity" : "Level 2, Overseas Passenger Terminal, Circular Quay W, The Rocks"
+      }
+
+{
+         "geometry" : {
+            "location" : {
+               "lat" : -6.211618388178563,
+               "lng" : 106.85213898353356
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.211618388178563,
+                  "lng" : 106.85213898353356
+               },
+               "southwest" : {
+                  "lat" : -6.211618388178563,
+                  "lng" : 106.85213898353356
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6facf611e56f3d6f232a24e60d9392759bbd43fa",
+         "name" : "Masjid Nurul Huda",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104473997089847488714\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbC8DoWZzr5gnqW1x4a5q97hwJNgMUiFQNgmuzR510FJ0YKG0GYvvSnMlrR8B0KVvgmwvQ9LLdzlWwC8zQQwN5jUjumigIXLVOO00mNJ5QZs7UlhkhQH0CJrDzRm6yb9XEhDeE8tpLNidlAGJDr_Dp_-DGhTRJboI23uXFfmOmDk5eag4Euogjg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJq9W3HZOvEmsRYtKNTRmq34M",
+         "plus_code" : {
+            "compound_code" : "46R5+JX The Rocks, New South Wales",
+            "global_code" : "4RRH46R5+JX"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJq9W3HZOvEmsRYtKNTRmq34M",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29,
+         "vicinity" : "Level 2, Overseas Passenger Terminal, Circular Quay W, The Rocks"
+      }
+
+{
+         "geometry" : {
+            "location" : {
+               "lat" : -6.21511677454175,
+               "lng" : 106.85488556556481
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.21511677454175,
+                  "lng" : 106.85488556556481
+               },
+               "southwest" : {
+                  "lat" : -6.21511677454175,
+                  "lng" : 106.85488556556481
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6facf611e56f3d6f232a24e60d9392759bbd43fa",
+         "name" : "Masjid Baiturrahman",
          "opening_hours" : {
             "open_now" : false
          },
